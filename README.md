@@ -13,3 +13,6 @@
 - Run the command: `npm install` to install the dependencies
 - Run the command: `node server.js` to start the server
 - Use 'Postman' to access the routes mentioned above
+
+# Hosted at 
+https://polling-system-api-8vz9.onrender.com
